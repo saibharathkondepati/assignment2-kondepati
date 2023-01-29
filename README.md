@@ -9,3 +9,8 @@ I like **Cricket** because it is very interesting game. I also love to see how *
 1. KL Rahul
 2. Pooran
 3. Dekock
+
+## players of the other team that I like
+* Royalchallange Banglore
+* Delhi Captials
+* Kolkata Knightriders
