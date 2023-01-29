@@ -10,4 +10,4 @@ In this table I am introducing some good countries to visit during the summmer b
 |England|To visit Lord's stadium|3|
 |Paris|To visit Effile Tower|5|
 |Austrila|To visit Amazon Forest|8|
-||Africa|To visit Forest's|10|
+|Africa|To visit Forest's|10|
