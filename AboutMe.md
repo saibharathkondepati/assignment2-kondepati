@@ -11,3 +11,10 @@ In this table I am introducing some good countries to visit during the summmer b
 |Paris|To visit Effile Tower|5|
 |Austrila|To visit Amazon Forest|8|
 |Africa|To visit Forest's|10|
+
+----
+> Nowadays you have to be a scientist if you want to be a killer
+* Vladimir Nabokov Lolita * 
+
+> Money is a tool, so I don't have to be.
+* Eddie Mumford *
