@@ -18,3 +18,26 @@ In this table I am introducing some good countries to visit during the summmer b
 
 > Money is a tool, so I don't have to be --
 *->Eddie Mumford*
+
+----
+
+### Code Fencing
+
+> How to check if two img paths are the same
+
+[Link that direct to Stackoverflow](https://stackoverflow.com/questions/75276951/how-to-check-if-two-img-paths-are-the-same)
+
+```<div class="main-card-container">
+<div class="the-card" data-framework="twoofhearts">
+
+    <div class="the-back card-face">
+        <img src="./images/cardback.png" class="flipped-card"> 
+    </div>
+    <div class="the-front card-face">
+        <img src="./images/img-1.png" class="unflipped-card"> 
+    </div>
+
+</div>        
+</div>
+```
+[Link that direct to Stackoverflow code snippet](https://stackoverflow.com/questions/75276951/how-to-check-if-two-img-paths-are-the-same)
