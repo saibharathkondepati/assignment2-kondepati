@@ -13,10 +13,10 @@ In this table I am introducing some good countries to visit during the summmer b
 |Africa|To visit Forest's|10|
 
 ----
-> Nowadays you have to be a scientist if you want to be a killer --
+> *Nowadays you have to be a scientist if you want to be a killer --*
  *->Vladimir Nabokov Lolita* 
 
-> Money is a tool, so I don't have to be --
+> *Money is a tool, so I don't have to be --*
 *->Eddie Mumford*
 
 ----
@@ -25,7 +25,7 @@ In this table I am introducing some good countries to visit during the summmer b
 
 > How to check if two img paths are the same
 
-[Link that direct to Stackoverflow](https://stackoverflow.com/questions/75276951/how-to-check-if-two-img-paths-are-the-same)
+Stackoverflow link: <https://stackoverflow.com/questions/75276951/how-to-check-if-two-img-paths-are-the-same>
 
 ```<div class="main-card-container">
 <div class="the-card" data-framework="twoofhearts">
@@ -40,4 +40,4 @@ In this table I am introducing some good countries to visit during the summmer b
 </div>        
 </div>
 ```
-[Link that direct to Stackoverflow code snippet](https://stackoverflow.com/questions/75276951/how-to-check-if-two-img-paths-are-the-same)
+snippet: <https://stackoverflow.com/questions/75276951/how-to-check-if-two-img-paths-are-the-same>
