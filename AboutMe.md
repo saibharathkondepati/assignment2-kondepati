@@ -23,7 +23,7 @@ In this table I am introducing some good countries to visit during the summmer b
 
 ### Code Fencing
 
-> How to check if two img paths are the same
+> How to check if two img paths are the same ?
 
 Stackoverflow link: <https://stackoverflow.com/questions/75276951/how-to-check-if-two-img-paths-are-the-same>
 
