@@ -39,3 +39,25 @@ In this table I am introducing some good countries to visit during the summmer b
 *->Eddie Mumford*
 
 ---
+
+### Code Fencing
+
+> How to check if two img paths are the same ?
+
+Stackoverflow link: <https://stackoverflow.com/questions/75276951/how-to-check-if-two-img-paths-are-the-same>
+
+```<div class="main-card-container">
+<div class="the-card" data-framework="twoofhearts">
+
+    <div class="the-back card-face">
+        <img src="./images/cardback.png" class="flipped-card"> 
+    </div>
+    <div class="the-front card-face">
+        <img src="./images/img-1.png" class="unflipped-card"> 
+    </div>
+
+</div>        
+</div>
+```
+snippet: <https://stackoverflow.com/questions/75276951/how-to-check-if-two-img-paths-are-the-same>
+
