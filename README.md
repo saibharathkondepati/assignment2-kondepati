@@ -41,24 +41,21 @@ In this table I am introducing some good countries to visit during the summmer b
 
 ---
 
-### Code Fencing
+### Code Fencing HTML code
 
-> How to check if two img paths are the same ?
+>Post Data to an Iframe <https://www.tutsplanet.com/post-data-iframe/>
 
-Stackoverflow link: <https://stackoverflow.com/questions/75276951/how-to-check-if-two-img-paths-are-the-same>
-
-```<div class="main-card-container">
-<div class="the-card" data-framework="twoofhearts">
-
-    <div class="the-back card-face">
-        <img src="./images/cardback.png" class="flipped-card"> 
-    </div>
-    <div class="the-front card-face">
-        <img src="./images/img-1.png" class="unflipped-card"> 
-    </div>
-
-</div>        
-</div>
 ```
-snippet: <https://stackoverflow.com/questions/75276951/how-to-check-if-two-img-paths-are-the-same>
+<form action="iframe.php" target="my-iframe" method="post">
+			
+  <label for="text">Some text:</label>
+  <input type="text" name="text" id="text">
+			
+  <input type="submit" value="post">
+			
+</form>
+		
+<iframe name="my-iframe" src="iframe.php"></iframe>
+```
+snippet code link: <https://css-tricks.com/snippets/html/post-data-to-an-iframe/>
 
